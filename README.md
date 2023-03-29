@@ -1,4 +1,4 @@
-# NFT Marketplace 
+# NFT Marketplace
 
 This is a repo of NFT Marketplace is for learning and practicing
 
@@ -10,7 +10,6 @@ This is a repo of NFT Marketplace is for learning and practicing
 yarn
 yarn typechain
 ```
-
 
 # Usage
 
