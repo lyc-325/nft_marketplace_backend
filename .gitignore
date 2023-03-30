@@ -16,3 +16,7 @@ cache
 
 # vercel
 .vercel
+
+# typescript 
+typechain 
+typechain-types
